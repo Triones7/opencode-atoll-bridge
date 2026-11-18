@@ -12,6 +12,20 @@ It is a small, dependency-free Node.js bridge between the OpenCode local HTTP AP
 
 > ⚠️ **Unofficial.** This is a community project, not affiliated with or endorsed by the OpenCode or Atoll authors. See [NOTICE](NOTICE).
 
+## Screenshots
+
+**Collapsed — Live Activity while a session is working**
+
+![Live Activity (working)](screenshots/live-activity-working.png)
+
+**Expanded — Notch Experience tab**
+
+![Notch Experience tab](screenshots/notch-experience.png)
+
+**Completion — a turn has finished**
+
+![Completion state](screenshots/completion.png)
+
 ## Requirements
 
 - macOS with [Atoll](https://github.com/Ebullioscopic) installed (v2.3.3 tested).

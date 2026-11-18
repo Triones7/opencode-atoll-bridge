@@ -12,6 +12,20 @@
 
 > ⚠️ **非官方**。社区项目，与 OpenCode / Atoll 作者无隶属关系。见 [NOTICE](NOTICE)。
 
+## 截图
+
+**收起态 —— 会话进行中的 Live Activity**
+
+![Live Activity（进行中）](screenshots/live-activity-working.png)
+
+**展开态 —— Notch Experience 标签页**
+
+![Notch Experience 标签页](screenshots/notch-experience.png)
+
+**完成态 —— 一轮对话结束**
+
+![完成态](screenshots/completion.png)
+
 ## 前置条件
 
 - 安装 [Atoll](https://github.com/Ebullioscopic) 的 macOS（实测 v2.3.3）。
