@@ -1,0 +1,12 @@
+# Runtime logs (may contain private session titles / IDs — never commit)
+*.log
+bridge.log
+bridge.err.log
+
+# Singleton lock
+*.lock
+.cache/
+
+# Noise
+node_modules/
+.DS_Store

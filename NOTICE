@@ -1,0 +1,19 @@
+opencode-atoll-bridge
+
+This project is an unofficial, community-built integration between OpenCode and
+Atoll. It is not affiliated with, endorsed by, or sponsored by the authors of
+either application.
+
+Trademarks
+----------
+- "OpenCode" and the OpenCode logo (opencode-icon.png) are trademarks of their
+  respective owner(s). The logo is redistributed here solely to identify the
+  application this integration works with; no ownership is claimed. If the
+  owner objects to this use, contact the repository maintainer and it will be
+  removed or replaced.
+- "Atoll" is a trademark of its respective owner. The extension RPC protocol
+  used by this project is undocumented and may change without notice.
+
+License
+-------
+This project is provided under the MIT License; see the LICENSE file.
